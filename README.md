@@ -35,7 +35,7 @@ The integration of these components gives rise to the defining properties of a t
 * **Interactive Fiction** (Niesz & Holland, 1984)  
   [![Paper](https://img.shields.io/badge/Paper-Link-b31b1b?style=flat-square)](https://www.journals.uchicago.edu/doi/abs/10.1086/448277?journalCode=ci)
 * **Genie 1** (Bruce et al., 2024)  
-  [![arXiv](https://img.shields.io/badge/arXiv-2402.15391-b31b1b?style=flat-square)](https://arxiv.org/pdf/2402.15391) [![Website](https://img.shields.io/badge/Website-Live-brightgreen?style=flat-square)](https://sites.google.com/view/genie-2024/home)
+  [![arXiv](https://img.shields.io/badge/arXiv-2402.15391-b31b1b?style=flat-square)](https://arxiv.org/abs/2402.15391) [![Website](https://img.shields.io/badge/Website-Live-brightgreen?style=flat-square)](https://sites.google.com/view/genie-2024/home)
 * **Genie 2** (Parker-Holder et al., 2024)  
   [![Website](https://img.shields.io/badge/Website-Live-brightgreen?style=flat-square)](https://deepmind.google/discover/blog/genie-2-a-large-scale-foundation-world-model/)
 * **Genie 3** (Ball et al., 2025)  
