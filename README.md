@@ -152,7 +152,7 @@ The integration of these components gives rise to the defining properties of a t
 * **MMaDA: Multimodal Large Diffusion Language Models** (Yang et al., 2025)  
   [![arXiv](https://img.shields.io/badge/arXiv-2505.15809-b31b1b?style=flat-square)](https://arxiv.org/abs/2505.15809) [![GitHub](https://img.shields.io/github/stars/Gen-Verse/MMaDA?style=social)](https://github.com/Gen-Verse/MMaDA)
 * **Lavida-O: Elastic Masked Diffusion Models for Unified Multimodal Understanding and Generation** (Li et al., 2025)  
-  [![arXiv](https://img.shields.io/badge/arXiv-2509.19244-b31b1b?style=flat-square)](https://arxiv.org/abs/2509.19244)
+  [![arXiv](https://img.shields.io/badge/arXiv-2509.19244-b31b1b?style=flat-square)](https://arxiv.org/abs/2509.19244) [![GitHub](https://img.shields.io/github/stars/jacklishufan/LaViDa?style=social)](https://github.com/jacklishufan/LaViDa) [![GitHub](https://img.shields.io/github/stars/adobe-research/LaVida-O?style=social)](https://github.com/adobe-research/LaVida-O) 
 * **OneFlow: Concurrent Mixed-Modal and Interleaved Generation with Edit Flows** (Nguyen et al., 2025)  
   [![arXiv](https://img.shields.io/badge/arXiv-2510.03506-b31b1b?style=flat-square)](https://arxiv.org/abs/2510.03506) [![Website](https://img.shields.io/badge/Website-Live-brightgreen?style=flat-square)](https://oneflow.framer.ai/)
 * **Lumina-DiMOO: An Omni Diffusion Large Language Model for Multi-Modal Generation and Understanding** (Xin et al., 2025)  
