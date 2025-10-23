@@ -1,14 +1,14 @@
-# Awesome World Models: A Hitchhiker's Guide [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome World Models: A Hitchhiker's Guide [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![arXiv](https://img.shields.io/badge/arXiv-2510.00000-b31b1b?style=flat-square)](https://arxiv.org/abs/2510.00000)
 
-> A curated list of papers and resources on World Models, following the evolutionary roadmap from the survey: **"From Masks to Worlds: A Hitchhiker's Guide to World Models"**.
+> A curated list of papers and resources on World Models, following the evolutionary roadmap from the position paper: **"From Masks to Worlds: A Hitchhiker's Guide to World Models"**.
 >
-> This repository catalogues the papers and concepts discussed in the survey, which charts a clear path from foundational techniques to the frontier of building living, interactive worlds. The journey is structured into five key stages, preceded by a conceptual and historical overview.
+> This repository catalogues the papers and concepts discussed in the position paper, which charts a clear path from foundational techniques to the frontier of building living, interactive worlds. The journey is structured into five key stages, preceded by a conceptual and historical overview.
 
 ## What is a True World Model?
 
 According to the survey, a true world model is not a monolithic entity but a system synthesized from three core subsystems:
 
-* **The Generative Heart ($\mathcal{G}$):** The foundation that produces coherent world states. It models the world's dynamics, appearance, and task-relevant outcomes.
+* **The Generative Heart ($\mathcal{G}$):** The foundation that produces world states. It models the world's dynamics, appearance, and task-relevant outcomes.
 * **The Interactive Loop ($\mathcal{F}, \mathcal{C}$):** Closes the action-perception cycle, enabling the model to support real-time interaction and adaptation through state inference and policy control.
 * **The Memory System ($\mathcal{M}$):** Sustains coherence over long horizons by allowing past events to inform the future via a persistent, recurrent state.
 
@@ -76,7 +76,7 @@ The integration of these components gives rise to the defining properties of a t
 * **Discrete Diffusion in Large Language and Multimodal Models: A Survey** (Yu et al., 2025d)  
   [![arXiv](https://img.shields.io/badge/arXiv-2506.13759-b31b1b?style=flat-square)](https://arxiv.org/abs/2506.13759) [![GitHub](https://img.shields.io/github/stars/LiQiiiii/DLLM-Survey?style=social)](https://github.com/LiQiiiii/DLLM-Survey)
 
-#### Vision & Video Modality
+#### Vision Modality
 
 * **BEiT: BERT Pre-training of Image Transformers** (Bao et al., 2021)  
   [![arXiv](https://img.shields.io/badge/arXiv-2106.08254-b31b1b?style=flat-square)](https://arxiv.org/abs/2106.08254) [![GitHub](https://img.shields.io/github/stars/microsoft/unilm?style=social)](https://github.com/microsoft/unilm/tree/master/beit)
