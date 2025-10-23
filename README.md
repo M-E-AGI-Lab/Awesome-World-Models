@@ -122,6 +122,9 @@ The integration of these components gives rise to the defining properties of a t
   [![Paper](https://img.shields.io/badge/Paper-PDF-b31b1b?style=flat-square)](https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf) [![GitHub](https://img.shields.io/github/stars/openai/gpt-2?style=social)](https://github.com/openai/gpt-2) [![Website](https://img.shields.io/badge/Website-Live-brightgreen?style=flat-square)](https://openai.com/research/better-language-models)
 * **Language Models are Few-Shot Learners (GPT-3)** (Brown et al., 2020)  
   [![arXiv](https://img.shields.io/badge/arXiv-2005.14165-b31b1b?style=flat-square)](https://arxiv.org/abs/2005.14165) [![GitHub](https://img.shields.io/github/stars/openai/gpt-3?style=social)](https://github.com/openai/gpt-3)
+* **Autoregressive model beats diffusion: Llama for scalable image generation** (Sun et al., 2024)  
+  [![arXiv](https://img.shields.io/badge/arXiv-2406.06525-b31b1b?style=flat-square)](https://arxiv.org/abs//2406.06525) [![GitHub](https://img.shields.io/github/stars/FoundationVision/LlamaGen?style=social)](https://github.com/FoundationVision/LlamaGen) [![Website](https://img.shields.io/badge/Website-Live-brightgreen?style=flat-square)](https://peizesun.github.io/llamagen/)
+
 * **BLIP-2: Bootstrapping Language-Image Pre-training with Frozen Image Encoders and Large Language Models** (Li et al., 2023)  
   [![arXiv](https://img.shields.io/badge/arXiv-2301.12597-b31b1b?style=flat-square)](https://arxiv.org/abs/2301.12597) [![GitHub](https://img.shields.io/github/stars/salesforce/LAVIS?style=social)](https://github.com/salesforce/LAVIS/tree/main/projects/blip2) [![Website](https://img.shields.io/badge/Website-Live-brightgreen?style=flat-square)](https://www.salesforce.com/blog/blip-2/)
 * **Visual Instruction Tuning (LLaVA)** (Liu et al., 2023b)  
@@ -148,7 +151,14 @@ The integration of these components gives rise to the defining properties of a t
   [![arXiv](https://img.shields.io/badge/arXiv-2502.09992-b31b1b?style=flat-square)](https://arxiv.org/abs/2502.09992) [![GitHub](https://img.shields.io/github/stars/ML-GSAI/LLaDA?style=social)](https://github.com/ML-GSAI/LLaDA) [![Website](https://img.shields.io/badge/Website-Live-brightgreen?style=flat-square)](https://ml-gsai.github.io/LLaDA-demo)
 * **MMaDA: Multimodal Large Diffusion Language Models** (Yang et al., 2025)  
   [![arXiv](https://img.shields.io/badge/arXiv-2505.15809-b31b1b?style=flat-square)](https://arxiv.org/abs/2505.15809) [![GitHub](https://img.shields.io/github/stars/Gen-Verse/MMaDA?style=social)](https://github.com/Gen-Verse/MMaDA)
-
+* **Lavida-O: Elastic Masked Diffusion Models for Unified Multimodal Understanding and Generation** (Li et al., 2025)  
+  [![arXiv](https://img.shields.io/badge/arXiv-2509.19244-b31b1b?style=flat-square)](https://arxiv.org/abs/2509.19244)
+* **OneFlow: Concurrent Mixed-Modal and Interleaved Generation with Edit Flows** (Nguyen et al., 2025)  
+  [![arXiv](https://img.shields.io/badge/arXiv-2510.03506-b31b1b?style=flat-square)](https://arxiv.org/abs/2510.03506) [![Website](https://img.shields.io/badge/Website-Live-brightgreen?style=flat-square)](https://oneflow.framer.ai/)
+* **Lumina-DiMOO: An Omni Diffusion Large Language Model for Multi-Modal Generation and Understanding** (Xin et al., 2025)  
+  [![arXiv](https://img.shields.io/badge/arXiv-2510.06308-b31b1b?style=flat-square)](https://arxiv.org/abs/2510.06308) [![GitHub](https://img.shields.io/github/stars/Alpha-VLLM/Lumina-DiMOO?style=social)](https://github.com/Alpha-VLLM/Lumina-DiMOO) [![Website](https://img.shields.io/badge/Website-Live-brightgreen?style=flat-square)](https://synbol.github.io/Lumina-DiMOO/)
+* **Diffuse Everything: Multimodal Diffusion Models on Arbitrary State Spaces** (Rojas et al., 2025)  
+  [![arXiv](https://img.shields.io/badge/arXiv-2506.07903-b31b1b?style=flat-square)](https://arxiv.org/abs/2506.07903) [![GitHub](https://img.shields.io/github/stars/KevinRojas1499/Diffuse-Everything?style=social)](https://github.com/KevinRojas1499/Diffuse-Everything) [![Website](https://img.shields.io/badge/Website-Live-brightgreen?style=flat-square)](https://x.com/YuchenZhu_ZYC/status/1934700344707363180)
 #### Extending Vision Model Pre-training (Visual-Prior)
 
 * **High-Resolution Image Synthesis with Latent Diffusion Models (Stable Diffusion)** (Rombach et al., 2022)  
