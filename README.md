@@ -1,4 +1,4 @@
-# Awesome World Models: A Hitchhiker's Guide [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![arXiv](https://img.shields.io/badge/arXiv-2510.00000-b31b1b?style=flat-square)](https://arxiv.org/abs/2510.00000)
+# Awesome World Models: A Hitchhiker's Guide [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![arXiv](https://img.shields.io/badge/arXiv-2510.20668-b31b1b?style=flat-square)](https://arxiv.org/abs/2510.20668)
 
 > A curated list of papers and resources on World Models, following the evolutionary roadmap from the position paper: **"From Masks to Worlds: A Hitchhiker's Guide to World Models"**.
 >
