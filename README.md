@@ -12,9 +12,14 @@ According to the survey, a true world model is not a monolithic entity but a sys
 * **The Interactive Loop ($\mathcal{F}, \mathcal{C}$):** Closes the action-perception cycle, enabling the model to support real-time interaction and adaptation through state inference and policy control.
 * **The Memory System ($\mathcal{M}$):** Sustains coherence over long horizons by allowing past events to inform the future via a persistent, recurrent state.
 
+![Architecture](wm_arch.png)
+
+
 The integration of these components gives rise to the defining properties of a true world model: **Persistence**, **Agency**, and **Emergence**.
 
 ## The Evolutionary Roadmap
+
+![Roadmap](evolution.png)
 
 ### Foundational Concepts & Historical Perspectives
 
