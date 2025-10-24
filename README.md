@@ -336,3 +336,27 @@ The path to achieving Stage V is defined by three fundamental, unsolved research
 1.  **The Coherence Problem (Evaluation)**: How to formalize and measure the internal logical, causal, and narrative coherence of a self-generating reality that writes its own history.
 2.  **The Compression Problem (Scaling)**: How to learn causally sufficient state abstractions to preserve consequence while discarding noise, avoiding computational collapse from an ever-growing history.
 3.  **The Alignment Problem (Safety)**: How to align not only the world's underlying laws but also the emergent, unpredictable dynamics of the multi-agent society interacting within it.
+   
+
+
+## 📚 Citation
+
+If you find this work helpful, please consider citing:
+
+```bibtex
+@article{shi2025muddit,
+  title={From Masks to Worlds: A Hitchhiker's Guide to World Models},
+  author={Bai, Jinbin and Lei, Yu and Wu, Hecong and Zhu, Yuchen and Li, Shufan and Xin, Yi and Li, Xiangtai and Tao, Molei and Grover, Aditya and Yang, Ming-Hsuan},
+  journal={arXiv preprint arXiv:2510.20668},
+  year={2025}
+}
+```
+
+---
+
+<p align="center">
+  <a href="https://star-history.com/#M-E-AGI-Lab/Awesome-World-Models&Date">
+    <img src="https://api.star-history.com/svg?repos=M-E-AGI-Lab/Awesome-World-Models&type=Date" alt="Star History Chart">
+  </a>
+</p>
+
