@@ -344,7 +344,7 @@ The path to achieving Stage V is defined by three fundamental, unsolved research
 If you find this work helpful, please consider citing:
 
 ```bibtex
-@article{shi2025muddit,
+@article{bai2025masksworldshitchhikersguide,
   title={From Masks to Worlds: A Hitchhiker's Guide to World Models},
   author={Bai, Jinbin and Lei, Yu and Wu, Hecong and Zhu, Yuchen and Li, Shufan and Xin, Yi and Li, Xiangtai and Tao, Molei and Grover, Aditya and Yang, Ming-Hsuan},
   journal={arXiv preprint arXiv:2510.20668},
