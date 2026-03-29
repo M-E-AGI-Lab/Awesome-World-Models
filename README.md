@@ -223,7 +223,9 @@ The integration of these components gives rise to the defining properties of a t
   [![arXiv](https://img.shields.io/badge/arXiv-2504.08388-b31b1b?style=flat-square)](https://arxiv.org/abs/2504.08388) [![GitHub](https://img.shields.io/github/stars/microsoft/mineworld?style=social)](https://github.com/microsoft/mineworld)
 * **Matrix-Game 2.0: An Open-Source, Real-Time, and Streaming Interactive World Model** (He et al., 2025)  
   [![arXiv](https://img.shields.io/badge/arXiv-2508.13009-b31b1b?style=flat-square)](https://arxiv.org/abs/2508.13009) [![GitHub](https://img.shields.io/github/stars/SkyworkAI/Matrix-Game?style=social)](https://github.com/SkyworkAI/Matrix-Game/tree/main/Matrix-Game-2) [![Website](https://img.shields.io/badge/Website-Live-brightgreen?style=flat-square)](https://matrix-game-v2.github.io/)
-* **A Survey of Interactive Generative Video** (Yu et al., 2025)  
+* **Hand2World: Autoregressive Egocentric Interaction Generation via Free-Space Hand Gestures** (2026)
+  [![arXiv](https://img.shields.io/badge/arXiv-2602.09600-b31b1b?style=flat-square)](https://arxiv.org/abs/2602.09600) [![Website](https://img.shields.io/badge/Website-Live-brightgreen?style=flat-square)](https://hand2world.github.io/)
+* **A Survey of Interactive Generative Video** (Yu et al., 2025)
   [![arXiv](https://img.shields.io/badge/arXiv-2504.21853-b31b1b?style=flat-square)](https://arxiv.org/abs/2504.21853)
 
 ### Stage IV: Memory and Consistency
